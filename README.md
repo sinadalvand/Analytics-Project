@@ -3,7 +3,7 @@
 Analysis Project "Boomb Khande" `Lorestan University 2019-2020`
 
 
-#Team 
+#Team B
 
 - [x] `Sina Dalvand *`
 - [x] `Ali Askari`
